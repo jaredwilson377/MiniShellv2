@@ -1,9 +1,12 @@
 File I/0 Utility Programs:
+
 Jared Wilson (wil00352)
-Matthew Jurek (jurek048)
+
+Matthew J
 
 
 Design of our program:
+
 We used our base shell program from the last lab to start our project. It uses the same parse and read line functions along with
 other initializtion so we did not have to rewrite that code. It has different executable commands though which we developed using
 the Utility programs and libraries. We designed our commands using a switch statement that tests for the specific builtins
@@ -50,7 +53,9 @@ process then it will take you back to the first parent. If you are in the parent
 
 
 Pros and Cons of our Shell:
+
 Pros: Easy to use, compiles, runs forever unless exited, does the simple tasks as assigned to us, different I/0 functions
+
 Cons: More was the most difficult to write and confusing. It was not explained very well in the assignment.
 
 Intructions on using our Shell:
